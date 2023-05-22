@@ -1,0 +1,26 @@
+.cartaBorde{
+    border: double 15px red;
+    margin: 100px 150px 150px 150px;
+    color: white;
+    font-family: 'Pangolin', cursive;
+}
+
+.cartaBorde h1{
+    text-align: center;
+    font-size: 70px;
+}
+
+.barra{
+    border: solid 5px red;
+    margin: 30px 0px 60px;
+}
+.cartaBorde h2{
+    font-family: 'Pangolin', cursive;   
+    font-size: 40px;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+

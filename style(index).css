@@ -1,0 +1,115 @@
+.borde{
+    border-color: tomato;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    background-color:  tomato;
+    padding: 5px 0px 5px 1635px;
+    margin: 0px -7px 0px -7px;
+    border-style: groove; 
+}
+
+.h {
+    border: 6px dotted white;
+    margin: 1% 27% 0%;
+    font-family: 'Roboto Slab', serif;
+    font-size: 55px;
+    text-align: center;
+}
+
+.h + p{
+    padding: 0px 0 0 18%;
+    font-family: 'Roboto Slab', serif;
+    font-size: 35px;
+}
+
+
+.borde div:hover{
+    background-color: aqua;  
+    padding: -50px 0px;
+}    
+
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 50px; 
+    color: white;
+    text-align: center;
+}
+
+.fondo{
+    background-color:#a466ff;
+    margin: 60px 10% 0px;
+    padding: 8px 0px 8px 0px;
+}
+
+.inicio{
+    color:white;
+    font-family: 'Rubik', sans-serif;
+    font-size: 165%;
+    margin: 0% 1% ;
+    padding: 15px;
+    border: solid rgba(255, 0, 0, 0.598) 3px;
+    border-style: groove;
+    background-color: #D27501;
+    border-radius: 10px;
+}
+
+.menu1{
+    margin: 5% 1% 0%;
+    background-color:#260e3c;
+    color:white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+.menu1 h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+
+a {
+    text-decoration:none;
+}
+
+.novedades{
+    margin: 4% 1% 0%;
+    background-color: #cc1b25;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    color: white;
+    text-align: center;
+}
+
+.novedades h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+
+.feedback{
+    margin: 4% 1% 1%;
+    background-color: #139900;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+.feedback h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+
+.cartel_horarios{
+    padding: 35px 0px 10px 0px;
+    margin: 45px 27% 0px;
+    background-color: #141414;
+    color: white;
+}
+
+body{
+    background: linear-gradient(to right, #2a0845, #6441A5);
+    background-size: cover;
+}
+
